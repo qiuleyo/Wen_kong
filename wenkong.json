@@ -1,6 +1,6 @@
 {
-    "version": "v1.4",
-    "versionCode": 20220410,
+    "version": "v1.6",
+    "versionCode": 16,
     "zipUrl": "https://github.com/LSPosed/LSPosed/releases/download/v1.8.0/LSPosed-v1.8.0-6482-zygisk-release.zip",
     "changelog": "https://raw.githubusercontent.com/Limenggb/Wen_kong/main/rizhi.md"
 }
